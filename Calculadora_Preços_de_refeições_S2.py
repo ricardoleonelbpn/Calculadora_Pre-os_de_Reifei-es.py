@@ -77,6 +77,7 @@ print(f"Valor do desconto: R$ {valor_desconto:.2f} ")
 print(f"Preço total da refeição com desconto: R$ {total_refeição_com_desconto:.2f} ")
 
 print("\n------------------------------------------------------------------------------------")
-print("                        \nOBRIGADO PELA PREFERÊNCIA!                              ")
+print("                        OBRIGADO PELA PREFERÊNCIA!                              ")
+print()
 
 
