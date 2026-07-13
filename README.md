@@ -66,7 +66,7 @@ Troco: R$ 5,00
 ---
 
 ## 📷 Demonstração
-imagens/calculadora.png
+(https://github.com/ricardoleonelbpn/Calculadora_Pre-os_de_Reifei-es.py/blob/main/imagens/calculadora.png)
 
 ---
 
